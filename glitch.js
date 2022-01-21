@@ -2,7 +2,7 @@ let windowW = window.innerWidth;
 let windowH = window.innerHeight;
 let isLoaded = false;
 let glitch_1;
-let imgSrc_1 = 'https://i.postimg.cc/FR0nkSYR/Pngtree-game-glitch-t-shirt-design-5337428-1.png';
+let imgSrc_1 = 'https://i.postimg.cc/nr88dSTY/0j0iggym-900-removebg-preview-1.png';
 
 
 function setup() {
